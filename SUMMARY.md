@@ -2,6 +2,7 @@
 
 * [README](README.md)
 * [LeetCode-Algorithms](g.md)
-* [　412. Fizz Buzz](le.md)
 * [　461. Hamming Distance](461-hamming-distance.md)
+* [　344. Reverse String](344-reverse-string.md)
+* [　412. Fizz Buzz](le.md)
 
