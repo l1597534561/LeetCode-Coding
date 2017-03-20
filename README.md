@@ -1,6 +1,8 @@
+# LeetCode with JAVA
+
 # **關於此文件**
 
-本文件是來記錄所寫的LeetCode題目，目前只有部分LeetCode的解答。
+本文件是來記錄所寫的LeetCode題目，目前只有部分LeetCode的解答，目前主要以JAVA撰寫。
 
 建立此文件的原因主要是為了記錄撰寫的答案，以及之後回來可以了解當時是如何解題
 
