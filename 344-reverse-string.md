@@ -1,5 +1,13 @@
 # **344. Reverse String**
 
+### 題目
+
+Write a function that takes a string as input and returns the string reversed.
+
+### 範例
+
+Given s = "hello", return "olleh".
+
 ### 解題
 
 ```
@@ -11,7 +19,6 @@ public class Solution {
            bb.append(app);
         }   
         return bb.toString();
-        
     }
 }
 ```
