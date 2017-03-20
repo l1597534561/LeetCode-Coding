@@ -6,4 +6,5 @@
 * [　412. Fizz Buzz](le.md)
 * [　344. Reverse String](344-reverse-string.md)
 * [　136. Single Number](136-single-number.md)
+* [　292. Nim Game](292-nim-game.md)
 
