@@ -12,7 +12,7 @@
 
 [本文](https://l1597534561.gitbooks.io/leetcode/content/)
 
-[GitHub](https://github.com/l1597534561)
+[GitHub](https://github.com/l1597534561/LeetCode-coding-with-JAVA)
 
 ---
 
