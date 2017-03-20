@@ -8,6 +8,14 @@
 
 ---
 
+## 開始閱讀
+
+[本文](https://l1597534561.gitbooks.io/leetcode/content/)
+
+[GitHub](https://github.com/l1597534561)
+
+---
+
 # What is  LeetCode?
 
 LeetCode是一個提供Computer Scienct/IT技術面試題庫和社群平台，他也提供了線上Coding的功能，若在撰寫過程遇到艱澀的問題，也可以向他人提出討論，討論區也有已經解題的分享。
@@ -21,6 +29,4 @@ LeetCode是一個提供Computer Scienct/IT技術面試題庫和社群平台，�
 Bluey
 
 email:l1597534561@gmail.com
-
-
 
