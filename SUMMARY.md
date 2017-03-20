@@ -9,4 +9,5 @@
 * [　292. Nim Game](292-nim-game.md)
 * [　476. Number Complement](476-number-complement.md)
 * [　504. Base 7](504-base-7.md)
+* [　231. Power of Two](231-power-of-two.md)
 
